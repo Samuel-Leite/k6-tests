@@ -63,3 +63,8 @@ pipeline {
     }
 }
 ```
+
+## 📷 Evidências do teste:
+Seguem as evidências da execução do teste no Jenkins integrando ao Grafana Cloud apresentando erro no threshold.
+![alt text](image-1.png)
+![alt text](image.png)
